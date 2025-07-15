@@ -1,9 +1,9 @@
-function App() {
-  return (
-    <>
-      <h1>Inicio</h1>
-    </>
-  );
-}
+// import { Button } from "./components/ui/button";
 
-export default App;
+// function App() {
+//   return (
+
+//   );
+// }
+
+// export default App;
